@@ -51,7 +51,15 @@ export default function Register({ toggleView }) {
   }
 
   return (
-    <div className="p-4">
+    <div
+      className="p-4 mx-auto"
+      style={{
+        width: "50%",
+        border: "1px solid",
+        borderRadius: "5%",
+        marginTop: "50px"   // adds space at the top
+      }}
+    >
       <h2 className="text-center h4 fw-bold text-success mb-4">Create Account</h2>
       <form onSubmit={submit} className="needs-validation" noValidate>
         {["name", "email", "phone", "address", "password"].map((f) => (

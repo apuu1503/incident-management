@@ -89,7 +89,7 @@ Passwords are stored as plain text in this demo (for simplicity). Replace with b
 
 City & country fields are auto-fetched using India Postal Pincode API
 .
-
+```
 🧑‍💻 Author
 
 Developed by Apurva Sukale 🚀

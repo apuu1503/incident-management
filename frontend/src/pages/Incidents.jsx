@@ -56,7 +56,15 @@ export default function IncidentPage() {
         </div>
       </nav>
 
-      <div className="container mt-4">
+       <div 
+  className="container mt-4 p-4"
+  style={{ 
+    width: "80%", 
+    border: "1px solid", 
+   
+    marginTop: "50px"   // adds space at the top
+  }}
+>
 
         <div className="d-flex justify-content-between align-items-center mb-3">
           <h3 className="fw-semibold">My Incidents</h3>
