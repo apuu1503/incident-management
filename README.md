@@ -96,7 +96,3 @@ Developed by Apurva Sukale 🚀
 
 
 ---
-
-✅ This is **complete** — copy, paste, push to GitHub.  
-
-Do you also want me to add **example test users & incidents (seed data)** instructions, so someone cloning your repo can instantly
